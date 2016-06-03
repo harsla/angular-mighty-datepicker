@@ -5,6 +5,9 @@
 
 ## Changelog:
 
+0.1.5
+- replace pasvaz.bindonce with native angular bind once
+
 0.1.4
 - fix problem with selecting 1 day in range picker
 
